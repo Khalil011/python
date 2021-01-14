@@ -1,0 +1,14 @@
+.ui.secondary-pointing-menu.item{
+    border:1px solid green;
+    width:150px;
+    height:35px;
+    text-align: center;
+    line-height: 35px;
+    background:#ccc;
+    float:left;
+    margin-right:1px;
+}
+.parent{
+    background-image:  url(download.png);
+
+}
